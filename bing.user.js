@@ -2,7 +2,7 @@
 // @name         Bing AdRemoval and Dark Mode
 // @namespace    http://tampermonkey.net/
 // @version      1
-// @description  Automatically remove ads from www.bing.com and switch to dark mode (code adopted from https://github.com/lucalewin/better-bing)
+// @description  Automatically remove ads from www.bing.com and switch to dark mode (CSS adopted from https://github.com/lucalewin/better-bing)
 // @author       yihuanlin
 // @match        https://www.bing.com/*
 // @icon         https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg.ico
