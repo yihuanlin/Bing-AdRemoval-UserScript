@@ -15,4 +15,5 @@
     document.getElementById("id_rh").remove()
     document.getElementById("id_n").remove()
     document.getElementById("id_nc").remove()
+    document.getElementById("id_p").setAttribute("src", "https://yhl.ac.cn/icon/Avatar.png");
 })();
