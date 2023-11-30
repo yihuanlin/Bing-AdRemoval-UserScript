@@ -5,7 +5,7 @@
 // @description  Automatically remove ads from www.bing.com and switch to dark mode (CSS adopted from https://github.com/lucalewin/better-bing)
 // @author       yihuanlin
 // @match        https://www.bing.com/*
-// @icon         https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg.ico
+// @icon         https:/yhl.ac.cn/icon/Avatar.png
 // @grant        GM_addStyle
 // ==/UserScript==
 

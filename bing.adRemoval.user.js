@@ -5,7 +5,7 @@
 // @description  Automatically remove ads from www.bing.com
 // @author       yihuanlin
 // @match        https://www.bing.com/*
-// @icon         https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg.ico
+// @icon         https:/yhl.ac.cn/icon/Avatar.png
 // @grant        none
 // ==/UserScript==
 
